@@ -1,0 +1,28 @@
+*,
+*:before,
+*:after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background: url('../Assets/background.jpg') no-repeat center center fixed;
+    background-position: center;
+    background-size: 1000px 600px;
+}
+
+.kavithakal {
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    color: rgb(10, 1, 7);
+    background: rgba(93, 238, 248, 0.8); /* Add a semi-transparent white background */
+    border-radius: 10px;
+    min-width: 450px;
+    position: absolute;
+    margin-left:15%;
+    min-height: 100px;
+    transform: translate(-50%, -50%);
+}
