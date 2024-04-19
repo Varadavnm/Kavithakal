@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Kavithakal/static/css/main.4dbcca4a.css",
+    "main.js": "/Kavithakal/static/js/main.d8db1c90.js",
+    "static/js/453.be6883df.chunk.js": "/Kavithakal/static/js/453.be6883df.chunk.js",
+    "static/media/Moksham_Raneej.mp3": "/Kavithakal/static/media/Moksham_Raneej.b4715c6a9d6fb0669360.mp3",
+    "static/media/Karutha_Swapnam_das.mp3": "/Kavithakal/static/media/Karutha_Swapnam_das.768761fdcd04d7d71608.mp3",
+    "static/media/Drisyam_Savitha.mp3": "/Kavithakal/static/media/Drisyam_Savitha.4b149e9c38090a67516b.mp3",
+    "static/media/Yakshi_Athipatta.mp3": "/Kavithakal/static/media/Yakshi_Athipatta.a125c63023cea46ba762.mp3",
+    "static/media/Yakshi_Rajeev.mp3": "/Kavithakal/static/media/Yakshi_Rajeev.a125c63023cea46ba762.mp3",
+    "static/media/Drisyam_Prasanth.mp3": "/Kavithakal/static/media/Drisyam_Prasanth.51773190bf80a13cd0ac.mp3",
+    "static/media/Swapnam_Babu.mp3": "/Kavithakal/static/media/Swapnam_Babu.f24a0e7bdd488432c6ef.mp3",
+    "static/media/Priyanagarame_Prasanth.mp3": "/Kavithakal/static/media/Priyanagarame_Prasanth.04d86b6211525fd40599.mp3",
+    "static/media/Mathiyakuvolam_Rajeev.mp3": "/Kavithakal/static/media/Mathiyakuvolam_Rajeev.baf9b52a815d25866e49.mp3",
+    "static/media/ozhukku_Savitha.mp3": "/Kavithakal/static/media/ozhukku_Savitha.df98cfc27dee1bcd6d1d.mp3",
+    "static/media/Mariyam_Shibu.mp3": "/Kavithakal/static/media/Mariyam_Shibu.3e8c552c69a974c1dba2.mp3",
+    "static/media/Yoga_Prasanth.mp3": "/Kavithakal/static/media/Yoga_Prasanth.8013e5b55f968d954065.mp3",
+    "static/media/Grihapadham_Prasanth.mp3": "/Kavithakal/static/media/Grihapadham_Prasanth.bc4282155d9f882f0612.mp3",
+    "static/media/Soojithulayiloode_Shibu.mp3": "/Kavithakal/static/media/Soojithulayiloode_Shibu.6656ffac5ecf2dee5013.mp3",
+    "static/media/Pranayam_Prasanth.mp3": "/Kavithakal/static/media/Pranayam_Prasanth.6f453780025b0a45b075.mp3",
+    "index.html": "/Kavithakal/index.html",
+    "main.4dbcca4a.css.map": "/Kavithakal/static/css/main.4dbcca4a.css.map",
+    "main.d8db1c90.js.map": "/Kavithakal/static/js/main.d8db1c90.js.map",
+    "453.be6883df.chunk.js.map": "/Kavithakal/static/js/453.be6883df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dbcca4a.css",
+    "static/js/main.d8db1c90.js"
+  ]
+}
